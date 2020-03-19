@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Extensionpoint
+Bundle-SymbolicName: metaprogramming.extensionpoint;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: metaprogramming.extensionpoint
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.core.runtime;bundle-version="3.14.0",
+ org.eclipse.e4.core.di;bundle-version="1.7.0",
+ org.eclipse.e4.ui.di;bundle-version="1.2.200",
+ org.eclipse.xtext,
+ org.eclipse.gemoc.dsl.model,
+ org.eclipse.emf.ecore
+Export-Package: metaprogramming.extensionpoint
