@@ -1,4 +1,4 @@
-package metaprogramming.extensionpoint;
+package org.eclipse.gemoc.dsl.approach;
 
 import org.eclipse.gemoc.dsl.Dsl;
 import org.eclipse.gemoc.dsl.Entry;

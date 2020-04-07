@@ -1,4 +1,4 @@
-package metaprogramming.extensionpoint;
+package org.eclipse.gemoc.dsl.approach;
 
 import java.util.Collection;
 
